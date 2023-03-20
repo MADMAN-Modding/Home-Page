@@ -1,11 +1,11 @@
 body {
-  background-color: #393e46;
+  background-color: #16171a;
 }
 
 
 /* Navbar Container */
 #navbar {
-    background-color: #16171a; /* Black background color */
+    background-color: #000000; /* Black background color */
     position: fixed; /* Make it stick/fixed */
     top: 15; /* Stay on top */
     width: auto; /* Full width */
@@ -57,7 +57,7 @@ body {
     text-decoration: none;
     display: block;
     text-align: left;
-    font-size: 24px;
+    font-size: 16px;
   }
   
   /* Change color of dropdown links on hover */
